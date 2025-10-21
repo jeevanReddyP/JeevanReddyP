@@ -1,4 +1,4 @@
-# Hi, I'm Jeevan 👋
+# Hi, I'm Jeevan Reddy P 👋
 
 **Aspiring MERN Stack Developer from Bellary, Karnataka | Building responsive and scalable web apps with React & Node.js
 
