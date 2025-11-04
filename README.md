@@ -8,17 +8,19 @@ Aspiring **MERN Stack Developer** | Passionate about creating scalable, responsi
 - **Tools:** Git, GitHub, Postman, VSCode
 
 ## 🚀 Featured Projects
-- **ResumeBuilder:** A responsive Resume Builder with MERN (React, Node.js, MongoDB, Express)
-  - A full-stack web application where users can create, customize, and download resumes. It features an intuitive interface built with React and a robust backend using Node.js and MongoDB.
+- **Resume Builder:** A responsive Resume Builder with MERN.
+  - A full-stack web application where users can create, customize, and download resumes. Built using **React.js**, **Node.js**, **MongoDB**, and **Express**.
   - [View Project](https://resume-bui.netlify.app/)
   - [GitHub Repo](https://github.com/jeevanReddyP/ResumeBuilder)
-  - **Technologies used**: React, Node.js, MongoDB, Express
+  - **Technologies used:** React, Node.js, MongoDB, Express
+  - ![Resume Builder](https://via.placeholder.com/300x200?text=Image+Here)
 
-- **GlobalExplorer:** ReactJs TailwindCss made GlobalExplorer
-  - A modern dashboard app built using **React.js** and **Tailwind CSS**. The application provides real-time insights into global statistics, such as population and countries’ geographical data.
+- **Global Explorer:** ReactJs and TailwindCSS-based dashboard.
+  - A dynamic **React.js** application styled with **TailwindCSS** that allows users to explore various global data. A dashboard for visualizing country statistics and trends.
   - [View Project](https://globalexplorerdashboard.netlify.app/)
   - [GitHub Repo](https://github.com/jeevanReddyP/Global-Explorer-Dashboard)
-  - **Technologies used**: React, Tailwind CSS
+  - **Technologies used:** React, TailwindCSS
+  - ![Global Explorer](https://via.placeholder.com/300x200?text=Image+Here)
 
 ## 📫 Connect
 - **LinkedIn:** [Jeevan Reddy's LinkedIn](https://www.linkedin.com/in/jeevan-reddy-253503316/)
@@ -32,9 +34,9 @@ Aspiring **MERN Stack Developer** | Passionate about creating scalable, responsi
 
 ### More About Me:
 
-Hello, I'm **Jeevan Reddy P**, an aspiring Full Stack Developer from Bellary, Karnataka, India. Currently, I'm learning and developing projects with the **MERN** stack, focusing on creating highly responsive and scalable applications. My journey started as a manual tester, but my curiosity about coding and technology led me to explore the world of full-stack development. I’m excited about **React.js**, **Node.js**, and **MongoDB**, and I am eager to contribute to open-source projects and build tools that can make a difference.
+Hello, I'm **Jeevan Reddy P**, an aspiring Full Stack Developer from Bellary, Karnataka, India. I have transitioned from being an **Embedded Engineer** at **Talentpace**, where I worked from **Feb 10, 2023, to Sep 12, 2024**. During my time there, I was responsible for preparing electronic devices, soldering components, working with **ESP32** and **Arduino**, implementing electronic devices at client sites, and ensuring proper functionality. 
 
-I am passionate about solving real-world problems with tech and always strive to keep learning and evolving. When I'm not coding, I enjoy exploring new technologies and participating in hackathons.
+After realizing my passion for technology and coding, I pursued full-stack development, particularly focusing on **React.js**, **Node.js**, and **MongoDB**. I aim to create user-friendly, efficient, and scalable web applications. I'm constantly learning and excited to build meaningful solutions.
 
 ### 💼 Current Focus:
 - Building **full-stack applications** with a focus on scalability and performance.
