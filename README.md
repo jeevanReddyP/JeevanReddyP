@@ -13,14 +13,14 @@ Aspiring **MERN Stack Developer** | Passionate about creating scalable, responsi
   - [View Project](https://resume-bui.netlify.app/)
   - [GitHub Repo](https://github.com/jeevanReddyP/ResumeBuilder)
   - **Technologies used:** React, Node.js, MongoDB, Express
-  - ![Resume Builder](https://via.placeholder.com/300x200?text=Image+Here)
+ 
 
 - **Global Explorer:** ReactJs and TailwindCSS-based dashboard.
   - A dynamic **React.js** application styled with **TailwindCSS** that allows users to explore various global data. A dashboard for visualizing country statistics and trends.
   - [View Project](https://globalexplorerdashboard.netlify.app/)
   - [GitHub Repo](https://github.com/jeevanReddyP/Global-Explorer-Dashboard)
   - **Technologies used:** React, TailwindCSS
-  - ![Global Explorer](https://via.placeholder.com/300x200?text=Image+Here)
+
 
 ## 📫 Connect
 - **LinkedIn:** [Jeevan Reddy's LinkedIn](https://www.linkedin.com/in/jeevan-reddy-253503316/)
@@ -44,17 +44,17 @@ After realizing my passion for technology and coding, I pursued full-stack devel
 - Exploring **advanced topics in JavaScript** and **web development**.
 
 ### 💻 Technologies I'm Familiar With:
-- **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js, MongoDB, JWT
 - **Version Control**: Git, GitHub
-- **Tools**: Postman, VSCode, Heroku, Netlify, **Render** (Backend Deployment)
+- **Tools**: Postman, VSCode, Netlify, **Render** (Backend Deployment)
 
 ---
 
 ### 🧰 My Workflow:
 - **Code Editor**: Visual Studio Code (VSCode)
 - **Version Control**: Git, GitHub for collaboration and code management
-- **Testing**: Jest, Mocha, Postman for testing API routes
+- **Testing**:Postman for testing API routes
 - **Deployment**: **Render** for backend, Netlify for front-end
 
 ---
