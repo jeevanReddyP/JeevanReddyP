@@ -1,63 +1,59 @@
 # 🚀 Jeevan Reddy P
 
-Aspiring **MERN Stack Developer** | Passionate about creating scalable, responsive, and user-centric web applications. Experienced with **React.js**, **Node.js**, and **MongoDB**. Always eager to learn and build impactful solutions.
-
-## 🔭 Skills
-- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, JWT
-- **Tools:** Git, GitHub, Postman, VSCode
-
-## 🚀 Featured Projects
-- **Resume Builder:** A responsive Resume Builder with MERN.
-  - A full-stack web application where users can create, customize, and download resumes. Built using **React.js**, **Node.js**, **MongoDB**, and **Express**.
-  - [View Project](https://resume-bui.netlify.app/)
-  - [GitHub Repo](https://github.com/jeevanReddyP/ResumeBuilder)
-  - **Technologies used:** React, Node.js, MongoDB, Express
- 
-
-- **Global Explorer:** ReactJs and TailwindCSS-based dashboard.
-  - A dynamic **React.js** application styled with **TailwindCSS** that allows users to explore various global data. A dashboard for visualizing country statistics and trends.
-  - [View Project](https://globalexplorerdashboard.netlify.app/)
-  - [GitHub Repo](https://github.com/jeevanReddyP/Global-Explorer-Dashboard)
-  - **Technologies used:** React, TailwindCSS
-
-
-## 📫 Connect
-- **LinkedIn:** [Jeevan Reddy's LinkedIn](https://www.linkedin.com/in/jeevan-reddy-253503316/)
-- **Portfolio:** [Jeevan's Portfolio](https://jeevan-reddy-portfolio.netlify.app/)
-- **Email:** jeevanjgfr.email@example.com
-
-## 📈 GitHub Stats
-![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true)
+Aspiring **MERN Stack Developer** from Bellary, Karnataka — passionate about building scalable, responsive, and user-focused web applications. Experienced in **React.js**, **Node.js**, and **MongoDB**, with a strong foundation in both frontend and backend development. Always eager to learn and build meaningful digital solutions.
 
 ---
 
-### More About Me:
-
-Hello, I'm **Jeevan Reddy P**, an aspiring Full Stack Developer from Bellary, Karnataka, India. I have transitioned from being an **Embedded Engineer** at **Talentpace**, where I worked from **Feb 10, 2023, to Sep 12, 2024**. During my time there, I was responsible for preparing electronic devices, soldering components, working with **ESP32** and **Arduino**, implementing electronic devices at client sites, and ensuring proper functionality. 
-
-After realizing my passion for technology and coding, I pursued full-stack development, particularly focusing on **React.js**, **Node.js**, and **MongoDB**. I aim to create user-friendly, efficient, and scalable web applications. I'm constantly learning and excited to build meaningful solutions.
-
-### 💼 Current Focus:
-- Building **full-stack applications** with a focus on scalability and performance.
-- Contributing to **open-source** projects.
-- Exploring **advanced topics in JavaScript** and **web development**.
-
-### 💻 Technologies I'm Familiar With:
-- **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, MongoDB, JWT
-- **Version Control**: Git, GitHub
-- **Tools**: Postman, VSCode, Netlify, **Render** (Backend Deployment)
+## 🔧 Skills
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB, JWT  
+- **Tools & Platforms:** Git, GitHub, Postman, VSCode, Netlify, Render  
 
 ---
 
-### 🧰 My Workflow:
-- **Code Editor**: Visual Studio Code (VSCode)
-- **Version Control**: Git, GitHub for collaboration and code management
-- **Testing**:Postman for testing API routes
-- **Deployment**: **Render** for backend, Netlify for front-end
+## 📌 Pinned Projects
+
+### 🧾 Resume Builder App
+A full-stack web application that lets users create, customize, and download professional resumes.  
+- Built with **React.js**, **Node.js**, **Express**, and **MongoDB**.  
+- Includes customizable templates and a responsive UI.  
+- [🔗 Live Demo](https://resume-bui.netlify.app/) | [💻 GitHub Repo](https://github.com/jeevanReddyP/ResumeBuilder)
 
 ---
 
-Feel free to reach out to me via the contact details above. I'm always open to connecting with fellow developers, learning new things, and discussing exciting project ideas!  
-Thanks for checking out my GitHub profile!
+### 🌍 Global Explorer Dashboard
+An interactive dashboard that visualizes real-time global data.  
+- Developed using **React.js** and **TailwindCSS** for a clean, responsive interface.  
+- Displays country-based statistics and trends dynamically.  
+- [🔗 Live Demo](https://globalexplorerdashboard.netlify.app/) | [💻 GitHub Repo](https://github.com/jeevanReddyP/Global-Explorer-Dashboard)
+
+---
+
+## 👨‍💻 About Me
+
+I’m **Jeevan Reddy P**, an aspiring full-stack developer who transitioned from an **Embedded Engineering** background.  
+At **Talentpace** (Feb 2023 – Sep 2024), I worked on device integration, soldering, and IoT-based solutions using **ESP32** and **Arduino**. My technical foundation and curiosity led me to web development, where I now focus on **MERN stack** projects that solve real-world problems.
+
+---
+
+## 🎯 Current Focus
+- Building **full-stack MERN applications** with a focus on performance and scalability  
+- Contributing to **open-source** projects  
+- Deepening my understanding of **advanced JavaScript** and backend architecture  
+
+---
+
+## 📫 Connect with Me
+- **Portfolio:** [jeevan-reddy-portfolio.netlify.app](https://jeevan-reddy-portfolio.netlify.app/)  
+- **LinkedIn:** [linkedin.com/in/jeevan-reddy-253503316](https://www.linkedin.com/in/jeevan-reddy-253503316/)  
+- **Email:** jeevanjgfr.email@example.com  
+
+---
+
+## 📊 GitHub Stats
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true)
+
+---
+
+Thank you for visiting my GitHub profile!  
+I’m always open to connecting, collaborating, and learning from fellow developers. 🚀
