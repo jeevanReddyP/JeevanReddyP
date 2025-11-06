@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to My GitHub — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
+<h1 align="center">👋 Welcome to My Profile! — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Enthusiast;Passionate+Problem+Solver" />
