@@ -1,90 +1,94 @@
-<!-- Banner -->
-<h1 align="center">🌟 Welcome to My Profile!</h1>
+<!-- ✅ Working Header Banner -->
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwaGg4Z2R4NnVncGU2YjQ1OHZ5cmV5Ym14NmZscWFqaHR4bXhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Hi.gif" width="180">
 </p>
 
-<h2 align="center">👋 Hi, I'm <span style="color:#4e9fff">Jeevan Reddy P</span></h2>
+<h2 align="center">I'm <strong>Jeevan Reddy P</strong> — MERN Stack Developer 🚀</h2>
 
 <p align="center">
-  🚀 MERN Stack Developer | 💻 React.js Enthusiast | ⚡ Full-Stack Learner  
+  Passionate about building scalable, modern, and user-friendly web applications.  
 </p>
 
 ---
 
-# 🚀 About Me
+# 🌟 About Me
 
-I'm **Jeevan Reddy P**, an aspiring **Full-Stack MERN Developer** from **Bellary, Karnataka**.  
-I started my career as an **Embedded Engineer**, working with **ESP32, Arduino, IoT Devices, soldering**, and building custom hardware solutions at **Talentpace (2023–2024)**.
+I’m **Jeevan Reddy P**, a developer with engineering roots in **Embedded Systems** (ESP32, Arduino, IoT).  
+Now I build **full-stack MERN applications** with clean UI, scalable architecture, and real-world use cases.
 
-Now, I create **modern, scalable, and responsive web applications** using the **MERN stack**.
-
-✅ 18 months of Embedded Experience  
-✅ Strong Problem-Solving Skills  
-✅ Passionate about clean UI & real-world projects  
+✅ 18 months Embedded Engineer @ Talentpace  
+✅ Full-Stack Developer (MERN)  
+✅ Strong in React.js, Node.js, Express, MongoDB  
+✅ Loves building dashboards, productivity tools, and real-time UI apps  
 
 ---
 
-# 🔧 Tech Stack
+# ⚡ Tech Stack
 
 ### 🎨 Frontend  
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS  
-- Context API  
+React.js • JavaScript (ES6+) • HTML • CSS • TailwindCSS • Vite  
 
 ### 🛠️ Backend  
-- Node.js  
-- Express.js  
-- MongoDB (Mongoose)  
-- JWT Authentication  
+Node.js • Express.js • MongoDB • JWT  
 
 ### ⚙️ Tools  
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Netlify / Render  
+Git • GitHub • Postman • VS Code • Netlify • Render  
 
 ---
 
-# 📌 Pinned Projects
+# 📌 Pinned Projects (Important Ones)
 
-## 🧾 Resume Builder – MERN Full-Stack App
-A professional resume-building application with custom templates & PDF export.  
-✅ Fully responsive  
-✅ Real-time preview  
-✅ Secure backend  
-- 🔗 **Live Demo:** https://resume-bui.netlify.app/  
-- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
+## 🧾 Resume Builder – MERN Full-Stack App  
+A full-stack app to create, update, and download resumes in PDF format.  
+✅ Templates • ✅ Live Preview • ✅ PDF Export  
+🔗 **Demo:** https://resume-bui.netlify.app/  
+💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
 
 ---
 
-## 🌍 Global Explorer – Interactive Dashboard
-A dynamic data visualization dashboard showing real-time country statistics.  
-✅ React + Tailwind  
-✅ Interactive charts  
-✅ Clean and fast UI  
-- 🔗 **Live Demo:** https://globalexplorerdashboard.netlify.app/  
-- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+## 🌍 Global Explorer Dashboard  
+A clean and interactive dashboard showing country-wise global data.  
+✅ React + Tailwind • ✅ Dynamic Stats • ✅ Responsive UI  
+🔗 **Demo:** https://globalexplorerdashboard.netlify.app/  
+💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
 
 ---
 
-## 🎮 3D Car Racing UI – React + Three.js
-A smooth and visually appealing 3D car UI built using Three.js.  
-✅ Realistic 3D model  
-✅ Interactive controls  
-✅ Lightweight  
-- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+# ✅ Additional Major Projects (Added as you asked)
+
+## 🌦️ Weather App – React + Vite  
+A user-friendly weather app showing real-time weather using public APIs.  
+💻 **Repo:** https://github.com/jeevanReddyP/ReactWeatherApp  
 
 ---
 
-# 🎯 Current Focus
-- Building modern MERN applications  
-- Learning advanced backend architecture  
-- Improving UI/UX with React  
-- Contributing to open-source  
+## 🍲 Recipe Finder App  
+Find recipes based on available ingredients.  
+✅ API-based search • ✅ Beautiful UI  
+💻 **Repo:** https://github.com/jeevanReddyP/Recipe-Find-App  
+
+---
+
+## 🧠 Study Genie – Learning Assistant  
+A learning app that helps students with notes, study plans & tools.  
+✅ React + Vite • ✅ Organized UI  
+💻 **Repo:** https://github.com/jeevanReddyP/StudyGenAI-project  
+
+---
+
+## 💪 Health Habit Tracker  
+A personal wellness app to track daily habits & routines.  
+✅ Goal Tracking • ✅ Responsive UI  
+💻 **Repo:** https://github.com/jeevanReddyP/Health_Habit_Tracker  
+
+---
+
+## 🎉 Event Management (Full-Stack)  
+A full-stack app for planning & managing events.  
+✅ CRUD • ✅ Authentication • ✅ Admin features  
+💻 **Repo:** https://github.com/jeevanReddyP/EventManagement_fullstackProject  
 
 ---
 
@@ -99,10 +103,10 @@ A smooth and visually appealing 3D car UI built using Three.js.
 
 # 📫 Connect With Me
 
-- 🌐 **Portfolio:** https://jeevan-reddy-portfolio.netlify.app/  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jeevan-reddy-253503316/  
-- 📧 **Email:** jeevanjgfr.email@example.com  
+- 🌐 Portfolio: https://jeevan-reddy-portfolio.netlify.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/jeevan-reddy-253503316/  
+- 📧 Email: jeevanjgfr.email@example.com  
 
 ---
 
-<h3 align="center">✨ Thanks for stopping by! Let's connect and build something awesome together. 🚀</h3>
+<h3 align="center">🔥 Thanks for visiting — let's build something amazing together!</h3>
