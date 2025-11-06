@@ -1,117 +1,89 @@
-<!-- ✅ PREMIUM HEADER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
-</p>
+# Hi 👋, I'm Jeevan Reddy P 💻
 
-<h1 align="center">✨ Jeevan Reddy P ✨</h1>
-
-<h3 align="center">🚀 MERN Stack Developer | 💻 React Specialist | 🌐 Full-Stack Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+clean+and+modern+web+apps"/>
-</p>
+### MERN Stack Developer | Full Stack Web Developer | React.js Lover
 
 ---
 
-# 👨‍💻 About Me
+## 💫 About Me
 
-Hi! I'm **Jeevan Reddy P**, a dedicated **MERN Stack Developer** from Bellary, Karnataka.  
-I transitioned from **Embedded Systems (ESP32, Arduino, IoT)** to web development, and now I love building  
-**modern, responsive, performance-focused applications**.
+I'm **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
+I started my journey as an **Embedded Engineer** (ESP32, IoT, Arduino, device integration) and later moved into **full-stack web development**.  
+
+I enjoy building **clean, responsive, and scalable** applications using the MERN stack.
 
 ✅ MERN Developer  
-✅ Strong in UI/UX + animations  
-✅ Embedded Engineer background  
-✅ Passionate about building real projects, not just tutorials  
+✅ Strong with React.js & modern UI  
+✅ Love 3D UIs, dashboards & full-stack apps  
+✅ Open to collaborations & exciting projects  
+
+📬 **Ask me about:** MERN Stack, JavaScript, DSA  
+⚡ **Fun fact:** I think funny  
+🔥 **Motto:** *Never stop learning.* Clean code = Happy developer 😄  
 
 ---
 
-# ⚡ Tech Stack
+# 🧑‍💻👩‍💻 Tech Stack
 
-### 🚀 Frontend  
-React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Vite  
+### **Frontend**
+HTML5 • CSS3 • JavaScript • React • Redux  
+Chakra UI • Bootstrap • TailwindCSS • TypeScript  
 
-### 🔥 Backend  
-Node.js • Express.js • MongoDB • JWT  
+### **Backend**
+Node.js • Express.js  
 
-### 🧰 Tools  
-Git • GitHub • Postman • VS Code • Netlify • Render  
+### **Database**
+MongoDB • SQL • Firebase  
+
+### **Tools & Technologies**
+Git • GitHub • NPM • Postman  
+
+### **🚀 Deployment & Platforms**
+Vercel • Netlify  
 
 ---
 
-# 📌 **Top Projects (Only Your Best Work)**  
-✅ **Clean**  
-✅ **Meaningful**  
-✅ **Attractive images**  
-✅ **Perfect for GitHub profile**
+# 📌 Featured Projects (My Best Work)
 
----
-
-## 🧾 Resume Builder — MERN Full-Stack App  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Developer.gif" width="280"/>
-</p>
-
-A full-featured MERN app for creating, customizing, and downloading resumes.
-
-✅ Custom templates  
-✅ PDF export  
-✅ Clean + responsive  
-
+### 🧾 **Resume Builder — MERN Full-Stack App**
+A full-stack application to create, customize, and download resumes in PDF format.  
+✅ Templates • ✅ PDF Export • ✅ Live Preview  
 🔗 **Live:** https://resume-bui.netlify.app/  
-💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
+💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder
 
 ---
 
-## 🌍 Global Explorer Dashboard  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnimeshShaw/Good-Readme/master/Assets/analytics.gif" width="280"/>
-</p>
-
-Interactive dashboard showing global stats with modern UI.
-
-✅ React + Tailwind  
-✅ Dynamic charts  
-✅ Fast + responsive  
-
+### 🌍 **Global Explorer Dashboard**
+An interactive dashboard that shows global country statistics.  
+✅ React + Tailwind • ✅ Dynamic charts  
 🔗 **Live:** https://globalexplorerdashboard.netlify.app/  
-💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard
 
 ---
 
-## 🎮 3D Car Racing UI — React + Three.js  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/Animated_GIFs/main/Cars/car.gif" width="280"/>
-</p>
-
-A stunning, animated 3D UI built with React + Three.js.
-
-✅ Realistic models  
-✅ Smooth animations  
-✅ Modern graphics  
-
+### 🎮 **3D Car Racing UI — React + Three.js**
+A smooth, animated 3D UI built using React + Three.js.  
+✅ 3D Graphics • ✅ Performance optimized  
 💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
 
 ---
 
-# 📊 GitHub Insights
+# 🤝 Let's Connect
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=react"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=react"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-- 🌐 Portfolio → https://jeevan-reddy-portfolio.netlify.app/  
-- 💼 LinkedIn → https://linkedin.com/in/jeevan-reddy-253503316  
-- 📧 Email → jeevanjgfr.email@example.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeevanjgfr.email@example.com)
 
 ---
 
-<h3 align="center">🔥 Thanks for visiting! Let's build something amazing together! 🔥</h3>
+# 📊 GitHub Stats
+
+### 🔥 GitHub Stats
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=radical)
+
+### 📈 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=radical)
+
+### 🧩 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=radical)
+
+---
