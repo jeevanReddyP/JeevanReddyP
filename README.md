@@ -1,89 +1,127 @@
-# Hi 👋, I'm Jeevan Reddy P 💻
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/ixF4CkL.gif" width="320" alt="Developer Animation"/>
+</p>
 
-### MERN Stack Developer | Full Stack Web Developer | React.js Lover
+<h1 align="center">👋 Hi, I'm <span style="color:#00C2FF;">Jeevan Reddy P</span></h1>
+<h3 align="center">🚀 MERN Stack Developer | 💻 Full Stack Web Developer | 🎨 UI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+Real+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 💫 About Me
+# 🔥 **About Me**
 
 I'm **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
-I started my journey as an **Embedded Engineer** (ESP32, IoT, Arduino, device integration) and later moved into **full-stack web development**.  
+I started my journey as an **Embedded Engineer** (ESP32, Arduino, IoT) and transitioned into modern full-stack development.
 
-I enjoy building **clean, responsive, and scalable** applications using the MERN stack.
+💡 I love building:  
+✅ Dashboards  
+✅ UI animations  
+✅ 3D web experiences  
+✅ Full-stack MERN applications  
 
-✅ MERN Developer  
-✅ Strong with React.js & modern UI  
-✅ Love 3D UIs, dashboards & full-stack apps  
-✅ Open to collaborations & exciting projects  
-
-📬 **Ask me about:** MERN Stack, JavaScript, DSA  
-⚡ **Fun fact:** I think funny  
-🔥 **Motto:** *Never stop learning.* Clean code = Happy developer 😄  
+✨ *I focus on writing clean, scalable and beautiful code.*
 
 ---
 
-# 🧑‍💻👩‍💻 Tech Stack
+# 🧠 **Skills & Technologies**
 
-### **Frontend**
-HTML5 • CSS3 • JavaScript • React • Redux  
-Chakra UI • Bootstrap • TailwindCSS • TypeScript  
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,ts" />
 
-### **Backend**
-Node.js • Express.js  
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### **Database**
-MongoDB • SQL • Firebase  
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-### **Tools & Technologies**
-Git • GitHub • NPM • Postman  
+### 🧰 **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 
-### **🚀 Deployment & Platforms**
-Vercel • Netlify  
+### 🚀 **Deployment**
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 ---
 
-# 📌 Featured Projects (My Best Work)
+# ⭐ **Featured Projects (My Best Work)**
 
-### 🧾 **Resume Builder — MERN Full-Stack App**
-A full-stack application to create, customize, and download resumes in PDF format.  
-✅ Templates • ✅ PDF Export • ✅ Live Preview  
-🔗 **Live:** https://resume-bui.netlify.app/  
+> 📌 NOTE: Add your images in `/assets/` folder like  
+> `assets/resume.png`, `assets/global.png`, `assets/car.png`
+
+---
+
+## 🧾 **Resume Builder — MERN Full-Stack**
+<p align="center">
+  <img src="./assets/resume.png" width="600" alt="Resume Builder Screenshot"/>
+</p>
+
+✅ Create Resume  
+✅ Custom Templates  
+✅ Live Preview  
+✅ PDF Download  
+
+🔗 **Live:** https://resume-bui.netlify.app  
 💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder
 
 ---
 
-### 🌍 **Global Explorer Dashboard**
-An interactive dashboard that shows global country statistics.  
-✅ React + Tailwind • ✅ Dynamic charts  
-🔗 **Live:** https://globalexplorerdashboard.netlify.app/  
+## 🌍 **Global Explorer Dashboard**
+<p align="center">
+  <img src="./assets/global.png" width="600" alt="Global Explorer Screenshot"/>
+</p>
+
+✅ Country-based data  
+✅ Clean UI  
+✅ Fully responsive  
+
+🔗 **Live:** https://globalexplorerdashboard.netlify.app  
 💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard
 
 ---
 
-### 🎮 **3D Car Racing UI — React + Three.js**
-A smooth, animated 3D UI built using React + Three.js.  
-✅ 3D Graphics • ✅ Performance optimized  
-💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+## 🎮 **3D Car Racing UI — React + Three.js**
+<p align="center">
+  <img src="./assets/car.png" width="600" alt="3D Car Racing UI Screenshot"/>
+</p>
+
+✅ 3D Animations  
+✅ Smooth UI  
+✅ Built with React + Three.js  
+
+💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing
 
 ---
 
-# 🤝 Let's Connect
+# 📊 **GitHub Insights**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeevanjgfr.email@example.com)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="https://jeevan-reddy-portfolio.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+  </a>
+  <a href="mailto:jeevanjgfr.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
-
-### 🔥 GitHub Stats
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=radical)
-
-### 📈 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=radical)
-
-### 🧩 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=radical)
-
----
+<h3 align="center">✨ Thanks for visiting — Let's build something amazing together! 🚀</h3>
