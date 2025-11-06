@@ -7,9 +7,9 @@
 ---
 
 ---
-
+<h3 align="center">
 # 🚀 About Me
-
+</h3>
 <p align="center">
   Hi there! I’m <b><span style="color:#00C7FF;">Jeevan Reddy P</span></b>, an aspiring <b><span style="color:#FFD700;">MERN Stack Developer</span></b> from <b><span style="color:#FF4500;">Bellary, Karnataka</span></b>, currently living in <b><span style="color:#32CD32;">Bangalore</span></b> 🏙️.
 </p>
