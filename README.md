@@ -1,59 +1,324 @@
-# 🚀 Jeevan Reddy P
+<!-- Banner -->
+<h1 align="center">🌟 Welcome to My Profile!</h1>
 
-Aspiring **MERN Stack Developer** from Bellary, Karnataka — passionate about building scalable, responsive, and user-focused web applications. Experienced in **React.js**, **Node.js**, and **MongoDB**, with a strong foundation in both frontend and backend development. Always eager to learn and build meaningful digital solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwaGg4Z2R4NnVncGU2YjQ1OHZ5cmV5Ym14NmZscWFqaHR4bXhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="250" />
+</p>
 
----
+<h2 align="center">👋 Hi, I'm <span style="color:#4e9fff">Jeevan Reddy P</span></h2>
 
-## 🔧 Skills
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB, JWT  
-- **Tools & Platforms:** Git, GitHub, Postman, VSCode, Netlify, Render  
-
----
-
-## 📌 Pinned Projects
-
-### 🧾 Resume Builder App
-A full-stack web application that lets users create, customize, and download professional resumes.  
-- Built with **React.js**, **Node.js**, **Express**, and **MongoDB**.  
-- Includes customizable templates and a responsive UI.  
-- [🔗 Live Demo](https://resume-bui.netlify.app/) | [💻 GitHub Repo](https://github.com/jeevanReddyP/ResumeBuilder)
+<p align="center">
+  🚀 MERN Stack Developer | 💻 React.js Enthusiast | ⚡ Full-Stack Learner  
+</p>
 
 ---
 
-### 🌍 Global Explorer Dashboard
-An interactive dashboard that visualizes real-time global data.  
-- Developed using **React.js** and **TailwindCSS** for a clean, responsive interface.  
-- Displays country-based statistics and trends dynamically.  
-- [🔗 Live Demo](https://globalexplorerdashboard.netlify.app/) | [💻 GitHub Repo](https://github.com/jeevanReddyP/Global-Explorer-Dashboard)
+# 🚀 About Me
+
+I'm **Jeevan Reddy P**, an aspiring **Full-Stack MERN Developer** from **Bellary, Karnataka**.  
+I started my career as an **Embedded Engineer**, working with **ESP32, Arduino, IoT Devices, soldering**, and building custom hardware solutions at **Talentpace (2023–2024)**.
+
+Now, I create **modern, scalable, and responsive web applications** using the **MERN stack**.
+
+✅ 18 months of Embedded Experience  
+✅ Strong Problem-Solving Skills  
+✅ Passionate about clean UI & real-world projects  
 
 ---
 
-## 👨‍💻 About Me
+# 🔧 Tech Stack
 
-I’m **Jeevan Reddy P**, an aspiring full-stack developer who transitioned from an **Embedded Engineering** background.  
-At **Talentpace** (Feb 2023 – Sep 2024), I worked on device integration, soldering, and IoT-based solutions using **ESP32** and **Arduino**. My technical foundation and curiosity led me to web development, where I now focus on **MERN stack** projects that solve real-world problems.
+### 🎨 Frontend  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Context API  
 
----
+### 🛠️ Backend  
+- Node.js  
+- Express.js  
+- MongoDB (Mongoose)  
+- JWT Authentication  
 
-## 🎯 Current Focus
-- Building **full-stack MERN applications** with a focus on performance and scalability  
-- Contributing to **open-source** projects  
-- Deepening my understanding of **advanced JavaScript** and backend architecture  
-
----
-
-## 📫 Connect with Me
-- **Portfolio:** [jeevan-reddy-portfolio.netlify.app](https://jeevan-reddy-portfolio.netlify.app/)  
-- **LinkedIn:** [linkedin.com/in/jeevan-reddy-253503316](https://www.linkedin.com/in/jeevan-reddy-253503316/)  
-- **Email:** jeevanjgfr.email@example.com  
-
----
-
-## 📊 GitHub Stats
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true)
+### ⚙️ Tools  
+- Git & GitHub  
+- Postman  
+- VS Code  
+- Netlify / Render  
 
 ---
 
-Thank you for visiting my GitHub profile!  
-I’m always open to connecting, collaborating, and learning from fellow developers. 🚀
+# 📌 Pinned Projects
+
+## 🧾 Resume Builder – MERN Full-Stack App
+A professional resume-building application with custom templates & PDF export.  
+✅ Fully responsive  
+✅ Real-time preview  
+✅ Secure backend  
+- 🔗 **Live Demo:** https://resume-bui.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
+
+---
+
+## 🌍 Global Explorer – Interactive Dashboard
+A dynamic data visualization dashboard showing real-time country statistics.  
+✅ React + Tailwind  
+✅ Interactive charts  
+✅ Clean and fast UI  
+- 🔗 **Live Demo:** https://globalexplorerdashboard.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+
+---
+
+## 🎮 3D Car Racing UI – React + Three.js
+A smooth and visually appealing 3D car UI built using Three.js.  
+✅ Realistic 3D model  
+✅ Interactive controls  
+✅ Lightweight  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+
+---
+
+# 🎯 Current Focus
+- Building modern MERN applications  
+- Learning advanced backend architecture  
+- Improving UI/UX with React  
+- Contributing to open-source  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 **Portfolio:** https://jeevan-reddy-portfolio.netlify.app/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jeevan-reddy-253503316/  
+- 📧 **Email:** jeevanjgfr.email@example.com  
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Let's connect and build something awesome together. 🚀</h3>
+<!-- Banner -->
+<h1 align="center">🌟 Welcome to My Profile!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwaGg4Z2R4NnVncGU2YjQ1OHZ5cmV5Ym14NmZscWFqaHR4bXhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="250" />
+</p>
+
+<h2 align="center">👋 Hi, I'm <span style="color:#4e9fff">Jeevan Reddy P</span></h2>
+
+<p align="center">
+  🚀 MERN Stack Developer | 💻 React.js Enthusiast | ⚡ Full-Stack Learner  
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm **Jeevan Reddy P**, an aspiring **Full-Stack MERN Developer** from **Bellary, Karnataka**.  
+I started my career as an **Embedded Engineer**, working with **ESP32, Arduino, IoT Devices, soldering**, and building custom hardware solutions at **Talentpace (2023–2024)**.
+
+Now, I create **modern, scalable, and responsive web applications** using the **MERN stack**.
+
+✅ 18 months of Embedded Experience  
+✅ Strong Problem-Solving Skills  
+✅ Passionate about clean UI & real-world projects  
+
+---
+
+# 🔧 Tech Stack
+
+### 🎨 Frontend  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Context API  
+
+### 🛠️ Backend  
+- Node.js  
+- Express.js  
+- MongoDB (Mongoose)  
+- JWT Authentication  
+
+### ⚙️ Tools  
+- Git & GitHub  
+- Postman  
+- VS Code  
+- Netlify / Render  
+
+---
+
+# 📌 Pinned Projects
+
+## 🧾 Resume Builder – MERN Full-Stack App
+A professional resume-building application with custom templates & PDF export.  
+✅ Fully responsive  
+✅ Real-time preview  
+✅ Secure backend  
+- 🔗 **Live Demo:** https://resume-bui.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
+
+---
+
+## 🌍 Global Explorer – Interactive Dashboard
+A dynamic data visualization dashboard showing real-time country statistics.  
+✅ React + Tailwind  
+✅ Interactive charts  
+✅ Clean and fast UI  
+- 🔗 **Live Demo:** https://globalexplorerdashboard.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+
+---
+
+## 🎮 3D Car Racing UI – React + Three.js
+A smooth and visually appealing 3D car UI built using Three.js.  
+✅ Realistic 3D model  
+✅ Interactive controls  
+✅ Lightweight  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+
+---
+
+# 🎯 Current Focus
+- Building modern MERN applications  
+- Learning advanced backend architecture  
+- Improving UI/UX with React  
+- Contributing to open-source  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 **Portfolio:** https://jeevan-reddy-portfolio.netlify.app/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jeevan-reddy-253503316/  
+- 📧 **Email:** jeevanjgfr.email@example.com  
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Let's connect and build something awesome together. 🚀</h3>
+<!-- Banner -->
+<h1 align="center">🌟 Welcome to My Profile!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwaGg4Z2R4NnVncGU2YjQ1OHZ5cmV5Ym14NmZscWFqaHR4bXhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="250" />
+</p>
+
+<h2 align="center">👋 Hi, I'm <span style="color:#4e9fff">Jeevan Reddy P</span></h2>
+
+<p align="center">
+  🚀 MERN Stack Developer | 💻 React.js Enthusiast | ⚡ Full-Stack Learner  
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm **Jeevan Reddy P**, an aspiring **Full-Stack MERN Developer** from **Bellary, Karnataka**.  
+I started my career as an **Embedded Engineer**, working with **ESP32, Arduino, IoT Devices, soldering**, and building custom hardware solutions at **Talentpace (2023–2024)**.
+
+Now, I create **modern, scalable, and responsive web applications** using the **MERN stack**.
+
+✅ 18 months of Embedded Experience  
+✅ Strong Problem-Solving Skills  
+✅ Passionate about clean UI & real-world projects  
+
+---
+
+# 🔧 Tech Stack
+
+### 🎨 Frontend  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Context API  
+
+### 🛠️ Backend  
+- Node.js  
+- Express.js  
+- MongoDB (Mongoose)  
+- JWT Authentication  
+
+### ⚙️ Tools  
+- Git & GitHub  
+- Postman  
+- VS Code  
+- Netlify / Render  
+
+---
+
+# 📌 Pinned Projects
+
+## 🧾 Resume Builder – MERN Full-Stack App
+A professional resume-building application with custom templates & PDF export.  
+✅ Fully responsive  
+✅ Real-time preview  
+✅ Secure backend  
+- 🔗 **Live Demo:** https://resume-bui.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
+
+---
+
+## 🌍 Global Explorer – Interactive Dashboard
+A dynamic data visualization dashboard showing real-time country statistics.  
+✅ React + Tailwind  
+✅ Interactive charts  
+✅ Clean and fast UI  
+- 🔗 **Live Demo:** https://globalexplorerdashboard.netlify.app/  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+
+---
+
+## 🎮 3D Car Racing UI – React + Three.js
+A smooth and visually appealing 3D car UI built using Three.js.  
+✅ Realistic 3D model  
+✅ Interactive controls  
+✅ Lightweight  
+- 💻 **GitHub Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+
+---
+
+# 🎯 Current Focus
+- Building modern MERN applications  
+- Learning advanced backend architecture  
+- Improving UI/UX with React  
+- Contributing to open-source  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 **Portfolio:** https://jeevan-reddy-portfolio.netlify.app/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jeevan-reddy-253503316/  
+- 📧 **Email:** jeevanjgfr.email@example.com  
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Let's connect and build something awesome together. 🚀</h3>
