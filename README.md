@@ -7,37 +7,34 @@
 ---
 
 ---
-<h3 align="center">
+---
+
 # 🚀 About Me
-</h3>
-<p align="center">
-  Hi there! I’m <b><span style="color:#00C7FF;">Jeevan Reddy P</span></b>, an aspiring <b><span style="color:#FFD700;">MERN Stack Developer</span></b> from <b><span style="color:#FF4500;">Bellary, Karnataka</span></b>, currently living in <b><span style="color:#32CD32;">Bangalore</span></b> 🏙️.
-</p>
 
 <p align="center">
-  I love building <b><span style="color:#FF69B4;">scalable</span></b>, <b><span style="color:#1E90FF;">responsive</span></b>, and <b><span style="color:#FFA500;">user-focused</span></b> web applications.  
+  Hi! I’m <b><span style="color:#00C7FF;">Jeevan Reddy P</span></b>, an aspiring 
+  <b><span style="color:#FFD700;">MERN Stack Developer</span></b> from 
+  <b>Bellary, Karnataka</b>, currently living in 
+  <b><span style="color:#32CD32;">Bangalore</span></b> 🏙️.
 </p>
 
-<p align="center">
-  Previously, I worked as an <b><span style="color:#FF6347;">Embedded Engineer</span></b>, handling:  
-</p>
+<!-- LEFT ALIGNED CONTENT -->
+<div align="left">
 
-<ul>
-  <li>🔌 <span style="color:#00CED1;">Device Integration</span></li>
-  <li>🔧 <span style="color:#FF69B4;">Soldering & Circuit Setup</span></li>
-  <li>📡 <span style="color:#7B68EE;">IoT projects with ESP32 & Arduino</span></li>
-</ul>
+### 💼 Previously Worked As:
+- 🔌 <span style="color:#00CED1;">Device Integration Engineer</span>  
+- 🔧 <span style="color:#FF69B4;">Soldering & Circuit Setup</span>  
+- 📡 <span style="color:#7B68EE;">IoT Developer (ESP32 & Arduino)</span>
 
-<p align="center">
-  Now I focus on:  
-</p>
+### 🎯 Now I Focus On:
+- ✅ <span style="color:#00FA9A;">Full-stack MERN Applications</span>  
+- ✅ <span style="color:#FF8C00;">Clean & Responsive UI Development</span>  
+- ✅ <span style="color:#1E90FF;">Writing Maintainable Code</span>  
+- ✅ <span style="color:#DA70D6;">Learning & Improving Every Day</span>
 
-<ul>
-  <li>✅ <span style="color:#00FA9A;">Full-stack MERN Applications</span></li>
-  <li>✅ <span style="color:#FF8C00;">Clean UI Development</span></li>
-  <li>✅ <span style="color:#1E90FF;">Writing Efficient, Maintainable Code</span></li>
-  <li>✅ <span style="color:#DA70D6;">Learning & Improving Every Day</span></li>
-</ul>
+</div>
+
+---
 
 ## 📬 Reach Me
 
@@ -59,8 +56,6 @@
   </a>
 
 </p>
-
-
 ---
 
 # 🧑‍💻 Tech Stack
