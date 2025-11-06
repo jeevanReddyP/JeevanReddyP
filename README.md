@@ -39,18 +39,27 @@
   <li>✅ <span style="color:#DA70D6;">Learning & Improving Every Day</span></li>
 </ul>
 
+## 📬 Reach Me
+
 <p align="center">
-  🌐 Reach Me:  
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- Portfolio -->
   <a href="https://jeevan-reddy-portfolio.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="36" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:jeevanjgfr.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
+
 
 ---
 
