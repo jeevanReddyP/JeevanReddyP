@@ -1,127 +1,106 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/ixF4CkL.gif" width="320" alt="Developer Animation"/>
-</p>
+# Hi 👋, I'm Jeevan Reddy P 💻
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00C2FF;">Jeevan Reddy P</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 Full Stack Web Developer | 🎨 UI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+Real+Projects;Always+Learning+New+Things" />
-</p>
+### MERN Stack Developer | Full Stack Web Developer | React.js Lover
 
 ---
 
-# 🔥 **About Me**
+## 💫 About Me
 
 I'm **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
-I started my journey as an **Embedded Engineer** (ESP32, Arduino, IoT) and transitioned into modern full-stack development.
+I began my career as an **Embedded Engineer** (ESP32, IoT, Arduino, device installation), and later transitioned into **full-stack development**.
 
-💡 I love building:  
-✅ Dashboards  
-✅ UI animations  
-✅ 3D web experiences  
-✅ Full-stack MERN applications  
+✅ Strong in React, Node.js, Express, MongoDB  
+✅ Passionate about UI/UX, dashboards & 3D UIs  
+✅ Open to collaboration  
+✅ Quick learner & consistent performer  
 
-✨ *I focus on writing clean, scalable and beautiful code.*
-
----
-
-# 🧠 **Skills & Technologies**
-
-### 🎨 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,ts" />
-
-### ⚙️ **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ **Database**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### 🧰 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
-
-### 🚀 **Deployment**
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+📬 **Ask me about:** MERN Stack, JavaScript, DSA  
+⚡ **Fun fact:** I laugh at my own jokes  
+🔥 **Motto:** *Never stop learning.*
 
 ---
 
-# ⭐ **Featured Projects (My Best Work)**
+# 🧑‍💻👩‍💻 Tech Stack
 
-> 📌 NOTE: Add your images in `/assets/` folder like  
-> `assets/resume.png`, `assets/global.png`, `assets/car.png`
+### ✅ Frontend
+HTML5 • CSS3 • JavaScript • React • Redux  
+Chakra UI • Bootstrap • TailwindCSS • TypeScript  
 
----
+### ✅ Backend
+Node.js • Express.js  
 
-## 🧾 **Resume Builder — MERN Full-Stack**
-<p align="center">
-  <img src="./assets/resume.png" width="600" alt="Resume Builder Screenshot"/>
-</p>
+### ✅ Database
+MongoDB • SQL • Firebase  
 
-✅ Create Resume  
-✅ Custom Templates  
-✅ Live Preview  
-✅ PDF Download  
+### ✅ Tools & Technologies
+Git • GitHub • NPM • Postman  
 
-🔗 **Live:** https://resume-bui.netlify.app  
-💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder
+### ✅ Deployment
+Vercel • Netlify  
 
 ---
 
-## 🌍 **Global Explorer Dashboard**
-<p align="center">
-  <img src="./assets/global.png" width="600" alt="Global Explorer Screenshot"/>
-</p>
+# 📊 GitHub Stats
 
-✅ Country-based data  
-✅ Clean UI  
-✅ Fully responsive  
+### 🔥 GitHub Overview
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight)
 
-🔗 **Live:** https://globalexplorerdashboard.netlify.app  
-💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight)
 
----
-
-## 🎮 **3D Car Racing UI — React + Three.js**
-<p align="center">
-  <img src="./assets/car.png" width="600" alt="3D Car Racing UI Screenshot"/>
-</p>
-
-✅ 3D Animations  
-✅ Smooth UI  
-✅ Built with React + Three.js  
-
-💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=tokyonight)
 
 ---
 
-# 📊 **GitHub Insights**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=tokyonight"/>
-</p>
+# 📌 Pinned Projects (Styled Like GitHub Cards)
 
 ---
 
-# 🤝 **Let's Connect**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  <a href="https://jeevan-reddy-portfolio.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
-  </a>
-  <a href="mailto:jeevanjgfr.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
+## <img src="https://skillicons.dev/icons?i=react" width="22"> **Resume Builder (MERN)**
+A full-stack application to create, customize and download resumes in PDF format.  
+🔗 Live: https://resume-bui.netlify.app  
+💻 Repo: https://github.com/jeevanReddyP/ResumeBuilder  
 
 ---
 
-<h3 align="center">✨ Thanks for visiting — Let's build something amazing together! 🚀</h3>
+## <img src="https://skillicons.dev/icons?i=react" width="22"> **Global Explorer Dashboard**
+Interactive dashboard that displays global country data using React + Tailwind.  
+🔗 Live: https://globalexplorerdashboard.netlify.app  
+💻 Repo: https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=threejs" width="22"> **3D Car Racing UI**
+3D animated racing interface powered by React + Three.js.  
+💻 Repo: https://github.com/jeevanReddyP/3D-Car-Racing  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=react" width="22"> **React Weather App**
+User-friendly web weather app built with React + Vite.  
+💻 Repo: https://github.com/jeevanReddyP/ReactWeatherApp  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=react" width="22"> **StudyGenAI Project**
+A responsive learning app built with Vite + React offering study tools.  
+💻 Repo: https://github.com/jeevanReddyP/StudyGenAI-project  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=nodejs" width="22"> **Event Management Fullstack**
+A full-stack event planning and management web application.  
+💻 Repo: https://github.com/jeevanReddyP/EventManagement_fullstackProject  
+
+---
+
+# 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeevanjgfr.email@example.com)
+
+---
+
+<h3 align="center">✨ Thanks for visiting — Have a great day! 🚀</h3>
