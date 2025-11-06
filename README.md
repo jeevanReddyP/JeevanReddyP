@@ -6,11 +6,18 @@
 
 ---
 
-# 🚀 Jeevan Reddy P
+# 🚀 About Me
 
-Aspiring **MERN Stack Developer** from Bellary, Karnataka — passionate about building scalable, responsive, and user-focused web applications.  
-Experienced in **React.js**, **Node.js**, and **MongoDB**, with a strong foundation in both frontend and backend development.  
-Always eager to learn, improve, and create meaningful digital solutions.
+I’m **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
+I’m passionate about building scalable, responsive, and user-focused web applications.
+
+I transitioned from an **Embedded Engineering** background and now focus on building  
+modern and powerful **MERN stack applications**.
+
+✅ Strong in **React, Node.js, Express, MongoDB**  
+✅ Clean UI lover  
+✅ Fast learner  
+✅ Dedicated to improving every day  
 
 ---
 
@@ -33,51 +40,11 @@ Always eager to learn, improve, and create meaningful digital solutions.
 
 ---
 
-# 📌 Pinned Projects (Important & Meaningful)
-
-## 🧾 **Resume Builder App**
-A full-stack application to create, customize, and download resumes.  
-✅ Built with **React.js**, **Node.js**, **Express**, **MongoDB**  
-✅ Clean UI + PDF export  
-🔗 **Live:** https://resume-bui.netlify.app  
-💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder
-
----
-
-## 🌍 **Global Explorer Dashboard**
-Interactive dashboard visualizing global country-wise data.  
-✅ Built using **React.js**, **TailwindCSS**  
-✅ Clean charts & responsive design  
-🔗 **Live:** https://globalexplorerdashboard.netlify.app  
-💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard
-
----
-
-## 🎮 **3D Car Racing UI (Three.js + React)**
-A smooth, animated 3D Car UI with clean graphics.  
-✅ Built with **React + Three.js**  
-💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing
-
----
-
-# 👨‍💻 About Me
-
-I’m **Jeevan Reddy P**, an aspiring full-stack developer who transitioned from an **Embedded Engineering** background.  
-
-At **Talentpace (Feb 2023 – Sep 2024)**, I worked on:  
-✅ Device integration  
-✅ Soldering & hardware setup  
-✅ IoT-based solutions using **ESP32 & Arduino**  
-
-Now, I focus on building **modern MERN stack applications** and improving my skills daily.
-
----
-
 # 🎯 Current Focus
-- Building **full-stack MERN apps** with clean architecture  
-- Mastering **Advanced JavaScript** concepts  
-- Contributing to **Open-Source**  
-- Learning **backend design patterns**
+- Building **full-stack MERN apps**  
+- Learning **advanced JavaScript**  
+- Improving backend architecture  
+- Contributing to **open source**  
 
 ---
 
@@ -106,4 +73,4 @@ Now, I focus on building **modern MERN stack applications** and improving my ski
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my GitHub! Let's build something amazing together. 🚀</h3>
+<h3 align="center">✨ Thank you for visiting my GitHub! Let’s build something amazing together. 🚀</h3>
