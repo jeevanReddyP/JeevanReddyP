@@ -1,112 +1,108 @@
-<!-- ✅ Working Header Banner -->
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
-
+<!-- ✅ Modern Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Hi.gif" width="180">
+  <img src="https://raw.githubusercontent.com/Akshay090/Animated_GIFs/main/Developer/Developer.gif" width="250"/>
 </p>
 
-<h2 align="center">I'm <strong>Jeevan Reddy P</strong> — MERN Stack Developer 🚀</h2>
+<h1 align="center">🚀 Jeevan Reddy P</h1>
 
-<p align="center">
-  Passionate about building scalable, modern, and user-friendly web applications.  
-</p>
+<h3 align="center">
+  MERN Stack Developer • React.js Enthusiast • Full-Stack Learner
+</h3>
 
 ---
 
-# 🌟 About Me
+# 👨‍💻 About Me
+I’m **Jeevan Reddy P**, a passionate **MERN Stack Developer** from Bellary, Karnataka.  
+I transitioned from **Embedded Engineering (ESP32, Arduino, IoT)** to **Full-Stack Development**, where I now build clean, scalable, and responsive web applications.
 
-I’m **Jeevan Reddy P**, a developer with engineering roots in **Embedded Systems** (ESP32, Arduino, IoT).  
-Now I build **full-stack MERN applications** with clean UI, scalable architecture, and real-world use cases.
-
-✅ 18 months Embedded Engineer @ Talentpace  
-✅ Full-Stack Developer (MERN)  
-✅ Strong in React.js, Node.js, Express, MongoDB  
-✅ Loves building dashboards, productivity tools, and real-time UI apps  
+✅ MERN Developer  
+✅ Strong in React.js, Node.js  
+✅ Loves UI animations, dashboards & real-world applications  
 
 ---
 
 # ⚡ Tech Stack
 
-### 🎨 Frontend  
-React.js • JavaScript (ES6+) • HTML • CSS • TailwindCSS • Vite  
+### 🎨 **Frontend**
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Vite
 
-### 🛠️ Backend  
-Node.js • Express.js • MongoDB • JWT  
+### 🛠️ **Backend**
+Node.js • Express.js • MongoDB • JWT
 
-### ⚙️ Tools  
-Git • GitHub • Postman • VS Code • Netlify • Render  
+### ⚙️ **Tools**
+Git • GitHub • Postman • VS Code • Render • Netlify
 
 ---
 
-# 📌 Pinned Projects (Important Ones)
+# 📌 **Pinned Projects (Only Important Ones)**
 
-## 🧾 Resume Builder – MERN Full-Stack App  
-A full-stack app to create, update, and download resumes in PDF format.  
-✅ Templates • ✅ Live Preview • ✅ PDF Export  
-🔗 **Demo:** https://resume-bui.netlify.app/  
+---
+
+## 🧾 **Resume Builder — MERN Full-Stack App**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/Animated_GIFs/main/Laptop/laptop.gif" width="300">
+</p>
+
+A fully-featured full-stack resume creation tool with templates & PDF download.
+
+✅ Templates  
+✅ Real-time preview  
+✅ PDF export  
+
+🔗 **Live:** https://resume-bui.netlify.app/  
 💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder  
 
 ---
 
-## 🌍 Global Explorer Dashboard  
-A clean and interactive dashboard showing country-wise global data.  
-✅ React + Tailwind • ✅ Dynamic Stats • ✅ Responsive UI  
-🔗 **Demo:** https://globalexplorerdashboard.netlify.app/  
+## 🌍 **Global Explorer Dashboard**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/Animated_GIFs/main/Charts/analytics.gif" width="300">
+</p>
+
+A clean, interactive React dashboard that displays global country statistics.
+
+✅ Live data  
+✅ Modern UI (Tailwind)  
+✅ Smooth animations  
+
+🔗 **Live:** https://globalexplorerdashboard.netlify.app/  
 💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
 
 ---
 
-# ✅ Additional Major Projects (Added as you asked)
-
-## 🌦️ Weather App – React + Vite  
-A user-friendly weather app showing real-time weather using public APIs.  
-💻 **Repo:** https://github.com/jeevanReddyP/ReactWeatherApp  
-
----
-
-## 🍲 Recipe Finder App  
-Find recipes based on available ingredients.  
-✅ API-based search • ✅ Beautiful UI  
-💻 **Repo:** https://github.com/jeevanReddyP/Recipe-Find-App  
-
----
-
-## 🧠 Study Genie – Learning Assistant  
-A learning app that helps students with notes, study plans & tools.  
-✅ React + Vite • ✅ Organized UI  
-💻 **Repo:** https://github.com/jeevanReddyP/StudyGenAI-project  
-
----
-
-## 💪 Health Habit Tracker  
-A personal wellness app to track daily habits & routines.  
-✅ Goal Tracking • ✅ Responsive UI  
-💻 **Repo:** https://github.com/jeevanReddyP/Health_Habit_Tracker  
-
----
-
-## 🎉 Event Management (Full-Stack)  
-A full-stack app for planning & managing events.  
-✅ CRUD • ✅ Authentication • ✅ Admin features  
-💻 **Repo:** https://github.com/jeevanReddyP/EventManagement_fullstackProject  
-
----
-
-# 📊 GitHub Stats
+## 🎮 **3D Car Racing UI — React + Three.js**
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Akshay090/Animated_GIFs/main/Cars/car.gif" width="300">
+</p>
+
+An awesome 3D car racing interface built using **React + Three.js**.
+
+✅ 3D Graphics  
+✅ Smooth UI  
+✅ Performance optimized  
+
+💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing  
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect with Me
 
 - 🌐 Portfolio: https://jeevan-reddy-portfolio.netlify.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/jeevan-reddy-253503316/  
+- 💼 LinkedIn: https://linkedin.com/in/jeevan-reddy-253503316  
 - 📧 Email: jeevanjgfr.email@example.com  
 
 ---
 
-<h3 align="center">🔥 Thanks for visiting — let's build something amazing together!</h3>
+<h3 align="center">✨ Thanks for visiting! Let's build something amazing together. 🚀</h3>
