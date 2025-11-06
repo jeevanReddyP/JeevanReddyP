@@ -1,106 +1,95 @@
 # Hi 👋, I'm Jeevan Reddy P 💻
 
-### MERN Stack Developer | Full Stack Web Developer | React.js Lover
+## Coding
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB)](https://git.io/typing-svg)
 
 ---
 
 ## 💫 About Me
 
-I'm **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
-I began my career as an **Embedded Engineer** (ESP32, IoT, Arduino, device installation), and later transitioned into **full-stack development**.
+💬 Ask me about **MERN, JavaScript, React, Node.js**  
+🌱 I’m currently learning **Full Stack Web Development (MERN)**  
+📍 From Bellary, Karnataka  
+💼 Previously worked as an **Embedded Engineer at Talentpace**  
+🛠️ Worked with **ESP32, Arduino, IoT devices, soldering & circuit integration**  
+🌐 Transitioned into Web Development → Now building **modern, scalable MERN apps**
 
-✅ Strong in React, Node.js, Express, MongoDB  
-✅ Passionate about UI/UX, dashboards & 3D UIs  
-✅ Open to collaboration  
-✅ Quick learner & consistent performer  
+📫 How to reach me:
 
-📬 **Ask me about:** MERN Stack, JavaScript, DSA  
-⚡ **Fun fact:** I laugh at my own jokes  
-🔥 **Motto:** *Never stop learning.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/JeevanReddyP)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)  
+
+💡 Open to collaborations & exciting projects  
+⚡ Fun fact: Think funny  
+🔥 Motto: **Never Stop Learning**
 
 ---
 
 # 🧑‍💻👩‍💻 Tech Stack
 
-### ✅ Frontend
+### **Frontend**
 HTML5 • CSS3 • JavaScript • React • Redux  
-Chakra UI • Bootstrap • TailwindCSS • TypeScript  
+Chakra UI • Bootstrap • Tailwind CSS • TypeScript
 
-### ✅ Backend
-Node.js • Express.js  
+### **Backend**
+Node.js • Express.js
 
-### ✅ Database
-MongoDB • SQL • Firebase  
+### **Database**
+MongoDB • SQL • Firebase
 
-### ✅ Tools & Technologies
-Git • GitHub • NPM • Postman  
+### **Tools & Technologies**
+Git • GitHub • NPM • Postman
 
-### ✅ Deployment
-Vercel • Netlify  
+### **🚀 Deployment & Platforms**
+Vercel • Netlify
 
 ---
 
 # 📊 GitHub Stats
 
-### 🔥 GitHub Overview
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight)
-
-### 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeevanReddyP&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=dark)
 
 ---
 
-# 📌 Pinned Projects (Styled Like GitHub Cards)
+# 📌 Pinned Projects (As in image you shared)
+
+## **📘 ReactWeatherApp**  
+React Weather App is a user-friendly web app that provides real-time weather information based on user input. Built with React and Vite.  
+🟡 JavaScript  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=react" width="22"> **Resume Builder (MERN)**
-A full-stack application to create, customize and download resumes in PDF format.  
-🔗 Live: https://resume-bui.netlify.app  
-💻 Repo: https://github.com/jeevanReddyP/ResumeBuilder  
+## **📘 Health_Habit_Tracker**  
+Health Habits Tracker — A personal wellness app that helps users build & maintain healthy daily routines through goal setting and progress tracking with a clean, intuitive interface.  
+🟣 CSS  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=react" width="22"> **Global Explorer Dashboard**
-Interactive dashboard that displays global country data using React + Tailwind.  
-🔗 Live: https://globalexplorerdashboard.netlify.app  
-💻 Repo: https://github.com/jeevanReddyP/Global-Explorer-Dashboard  
+## **📘 StudyGenAI-project**  
+Study Genie — A responsive web app built with Vite + React to help students master subjects via interactive tools & personalized study plans.  
+🟡 JavaScript  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=threejs" width="22"> **3D Car Racing UI**
-3D animated racing interface powered by React + Three.js.  
-💻 Repo: https://github.com/jeevanReddyP/3D-Car-Racing  
+## **📘 Recipe-Find-App**  
+Recipe Find App helps users search & explore recipes based on available ingredients. Built with React and Vite.  
+🟡 JavaScript  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=react" width="22"> **React Weather App**
-User-friendly web weather app built with React + Vite.  
-💻 Repo: https://github.com/jeevanReddyP/ReactWeatherApp  
+## **📘 EventManagement_fullstackProject**  
+Event Management Platform — A full-stack web application for planning, organizing, and managing events seamlessly.  
+🟡 JavaScript  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=react" width="22"> **StudyGenAI Project**
-A responsive learning app built with Vite + React offering study tools.  
-💻 Repo: https://github.com/jeevanReddyP/StudyGenAI-project  
+## **📘 ResumeBuilder**  
+A full-stack Resume Builder app that lets users create, update, and download resumes in PDF format.  
+🟡 JavaScript  
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=nodejs" width="22"> **Event Management Fullstack**
-A full-stack event planning and management web application.  
-💻 Repo: https://github.com/jeevanReddyP/EventManagement_fullstackProject  
-
----
-
-# 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeevanjgfr.email@example.com)
-
----
-
-<h3 align="center">✨ Thanks for visiting — Have a great day! 🚀</h3>
