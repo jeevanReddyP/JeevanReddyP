@@ -6,21 +6,51 @@
 
 ---
 
+---
+
 # 🚀 About Me
 
-I’m **Jeevan Reddy P**, an aspiring **MERN Stack Developer** from Bellary, Karnataka.  
-I’m passionate about creating **scalable**, **responsive**, and **user-focused** digital solutions.
+<p align="center">
+  Hi there! I’m <b><span style="color:#00C7FF;">Jeevan Reddy P</span></b>, an aspiring <b><span style="color:#FFD700;">MERN Stack Developer</span></b> from <b><span style="color:#FF4500;">Bellary, Karnataka</span></b>, currently living in <b><span style="color:#32CD32;">Bangalore</span></b> 🏙️.
+</p>
 
-Previously, I worked as an **Embedded Engineer**, handling:  
-- 🔌 Device Integration  
-- 🔧 Soldering & Circuit Setup  
-- 📡 IoT projects with **ESP32 & Arduino**
+<p align="center">
+  I love building <b><span style="color:#FF69B4;">scalable</span></b>, <b><span style="color:#1E90FF;">responsive</span></b>, and <b><span style="color:#FFA500;">user-focused</span></b> web applications.  
+</p>
 
-Now I focus on:  
-✅ **Full-stack MERN applications**  
-✅ **Clean UI development**  
-✅ Writing **efficient, maintainable code**  
-✅ Learning & improving every day  
+<p align="center">
+  Previously, I worked as an <b><span style="color:#FF6347;">Embedded Engineer</span></b>, handling:  
+</p>
+
+<ul>
+  <li>🔌 <span style="color:#00CED1;">Device Integration</span></li>
+  <li>🔧 <span style="color:#FF69B4;">Soldering & Circuit Setup</span></li>
+  <li>📡 <span style="color:#7B68EE;">IoT projects with ESP32 & Arduino</span></li>
+</ul>
+
+<p align="center">
+  Now I focus on:  
+</p>
+
+<ul>
+  <li>✅ <span style="color:#00FA9A;">Full-stack MERN Applications</span></li>
+  <li>✅ <span style="color:#FF8C00;">Clean UI Development</span></li>
+  <li>✅ <span style="color:#1E90FF;">Writing Efficient, Maintainable Code</span></li>
+  <li>✅ <span style="color:#DA70D6;">Learning & Improving Every Day</span></li>
+</ul>
+
+<p align="center">
+  🌐 Reach Me:  
+  <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+  </a>
+  <a href="https://jeevan-reddy-portfolio.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="36" />
+  </a>
+  <a href="mailto:jeevanjgfr.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+  </a>
+</p>
 
 ---
 
