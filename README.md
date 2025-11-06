@@ -1,94 +1,109 @@
-# Hi 👋, I'm Jeevan Reddy P 💻
+<h1 align="center">👋 Welcome to My GitHub — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
 
-## Coding
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB)](https://git.io/typing-svg)
-
----
-
-## 💫 About Me
-
-💬 Ask me about **MERN, JavaScript, React, Node.js**  
-🌱 I’m currently learning **Full Stack Web Development (MERN)**  
-📍 From Bellary, Karnataka  
-💼 Previously worked as an **Embedded Engineer at Talentpace**  
-🛠️ Worked with **ESP32, Arduino, IoT devices, soldering & circuit integration**  
-🌐 Transitioned into Web Development → building **modern, scalable MERN apps**
-
-📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-reddy-253503316/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/JeevanReddyP)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jeevan-reddy-portfolio.netlify.app/)  
-
-💡 Open to collaborations & exciting projects  
-⚡ Fun fact: Think funny  
-🔥 Motto: **Never Stop Learning**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Full+Stack+Web+Developer;Passionate+Coder+%26+Problem+Solver" />
+</p>
 
 ---
 
-# 🧑‍💻👩‍💻 Tech Stack
+# 🚀 Jeevan Reddy P
 
-### **Frontend**
-HTML5 • CSS3 • JavaScript • React • Redux  
-Chakra UI • Bootstrap • Tailwind CSS • TypeScript
+Aspiring **MERN Stack Developer** from Bellary, Karnataka — passionate about building scalable, responsive, and user-focused web applications.  
+Experienced in **React.js**, **Node.js**, and **MongoDB**, with a strong foundation in both frontend and backend development.  
+Always eager to learn, improve, and create meaningful digital solutions.
 
-### **Backend**
-Node.js • Express.js
+---
 
-### **Database**
-MongoDB • SQL • Firebase
+# ⚡ Tech Stack & Tools
 
-### **Tools & Technologies**
-Git • GitHub • NPM • Postman
+### 🖥️ **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,vite" />
+</p>
 
-### **🚀 Deployment**
-Vercel • Netlify
+### 🛠️ **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,netlify" />
+</p>
+
+---
+
+# 📌 Pinned Projects (Important & Meaningful)
+
+## 🧾 **Resume Builder App**
+A full-stack application to create, customize, and download resumes.  
+✅ Built with **React.js**, **Node.js**, **Express**, **MongoDB**  
+✅ Clean UI + PDF export  
+🔗 **Live:** https://resume-bui.netlify.app  
+💻 **Repo:** https://github.com/jeevanReddyP/ResumeBuilder
+
+---
+
+## 🌍 **Global Explorer Dashboard**
+Interactive dashboard visualizing global country-wise data.  
+✅ Built using **React.js**, **TailwindCSS**  
+✅ Clean charts & responsive design  
+🔗 **Live:** https://globalexplorerdashboard.netlify.app  
+💻 **Repo:** https://github.com/jeevanReddyP/Global-Explorer-Dashboard
+
+---
+
+## 🎮 **3D Car Racing UI (Three.js + React)**
+A smooth, animated 3D Car UI with clean graphics.  
+✅ Built with **React + Three.js**  
+💻 **Repo:** https://github.com/jeevanReddyP/3D-Car-Racing
+
+---
+
+# 👨‍💻 About Me
+
+I’m **Jeevan Reddy P**, an aspiring full-stack developer who transitioned from an **Embedded Engineering** background.  
+
+At **Talentpace (Feb 2023 – Sep 2024)**, I worked on:  
+✅ Device integration  
+✅ Soldering & hardware setup  
+✅ IoT-based solutions using **ESP32 & Arduino**  
+
+Now, I focus on building **modern MERN stack applications** and improving my skills daily.
+
+---
+
+# 🎯 Current Focus
+- Building **full-stack MERN apps** with clean architecture  
+- Mastering **Advanced JavaScript** concepts  
+- Contributing to **Open-Source**  
+- Learning **backend design patterns**
+
+---
+
+# ✉️ Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  <a href="https://jeevan-reddy-portfolio.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" />
+  </a>
+  <a href="mailto:jeevanjgfr.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeevanReddyP&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddyP&layout=compact&theme=dark)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeevanReddyP&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddyP&theme=tokyonight" />
+</p>
 
 ---
 
-# 📌 Pinned Projects
-
-### 📘 ReactWeatherApp  
-React Weather App is a user-friendly web application that provides real-time weather information based on user input. Built with React and Vite.  
-🟡 JavaScript  
-
----
-
-### 📘 Health_Habit_Tracker  
-Health Habits Tracker — Personal wellness app that helps users track healthy routines, goals, and daily progress with a clean UI.  
-🟣 CSS  
-
----
-
-### 📘 StudyGenAI-project  
-Study Genie — A responsive study app built with Vite + React featuring interactive tools, personalized study plans & resources.  
-🟡 JavaScript  
-
----
-
-### 📘 Recipe-Find-App  
-Recipe Find App helps users explore recipes based on available ingredients. Built using React & Vite.  
-🟡 JavaScript  
-
----
-
-### 📘 EventManagement_fullstackProject  
-A full-stack event management platform for planning, organizing, and managing events seamlessly.  
-🟡 JavaScript  
-
----
-
-### 📘 ResumeBuilder  
-A full-stack Resume Builder app to create, update, and download resumes in PDF format.  
-🟡 JavaScript  
-
----
+<h3 align="center">✨ Thanks for visiting my GitHub! Let's build something amazing together. 🚀</h3>
