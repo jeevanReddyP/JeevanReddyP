@@ -6,9 +6,6 @@
 
 ---
 
----
----
-
 # 🚀 About Me
 
 <p align="center">
@@ -21,16 +18,23 @@
 <!-- LEFT ALIGNED CONTENT -->
 <div align="left">
 
-### 💼 Previously Worked As:
-- 🔌 <span style="color:#00CED1;">Device Integration Engineer</span>  
-- 🔧 <span style="color:#FF69B4;">Soldering & Circuit Setup</span>  
-- 📡 <span style="color:#7B68EE;">IoT Developer (ESP32 & Arduino)</span>
+### 💼 Previously Worked As an Embedded Engineer  
+During my role at <b>Talentpace</b>, I worked on multiple hardware-based and IoT-related tasks such as:
+
+- 🔌 <span style="color:#00CED1;">Preparing and integrating electronic devices</span>  
+- 🔧 <span style="color:#FF69B4;">Soldering, assembling circuits, and troubleshooting</span>  
+- 📡 <span style="color:#7B68EE;">Working with ESP32 & Arduino for IoT implementations</span>  
+- 🏭 <span style="color:#DAA520;">Deploying devices at client locations & conducting field checks</span>
+
+These responsibilities strengthened my **problem-solving**, **hardware debugging**, and **hands-on technical skills**, which now help me build better full-stack applications.
+
+---
 
 ### 🎯 Now I Focus On:
-- ✅ <span style="color:#00FA9A;">Full-stack MERN Applications</span>  
-- ✅ <span style="color:#FF8C00;">Clean & Responsive UI Development</span>  
-- ✅ <span style="color:#1E90FF;">Writing Maintainable Code</span>  
-- ✅ <span style="color:#DA70D6;">Learning & Improving Every Day</span>
+- ✅ <span style="color:#00FA9A;">Building full-stack MERN applications</span>  
+- ✅ <span style="color:#FF8C00;">Creating clean, modern, responsive UI</span>  
+- ✅ <span style="color:#1E90FF;">Writing efficient & maintainable code</span>  
+- ✅ <span style="color:#DA70D6;">Constant learning & improving every day</span>
 
 </div>
 
@@ -40,23 +44,22 @@
 
 <p align="center">
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jeevan-reddy-253503316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Portfolio -->
   <a href="https://jeevan-reddy-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <!-- Email -->
   <a href="mailto:jeevanjgfr.email@example.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
+
 ---
+
 
 # 🧑‍💻 Tech Stack
 
