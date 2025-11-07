@@ -8,10 +8,15 @@
 
 # 🚀 About Me
 
-👨‍💻 **Aspiring MERN Stack Developer** focused on building responsive and user-friendly web applications using **React, Node.js, and MongoDB**.  
-🔧 Strong problem-solving mindset with hands-on experience in **IoT & Embedded Systems**.  
-🌱 Always learning, improving, and creating meaningful digital experiences.  
-📍 Based in **Bangalore**, originally from **Bellary, Karnataka**.
+👨‍💻 Hi, I’m Jeevan Reddy P, an Aspiring MERN Stack Developer passionate about building clean, scalable, and user-friendly web applications.
+With a background in Electronics & Embedded Engineering, I bring strong problem-solving skills, hands-on hardware experience, and a deep interest in how technology shapes real-world solutions.
+
+💻 After working closely with software developers in my previous role, I discovered my passion for coding and shifted my career into full-stack development. Today, I enjoy transforming ideas into functional applications using React, Node.js, Express, and MongoDB.
+
+🌱 I’m constantly learning, exploring modern web technologies, and improving my craft every day.
+📍 Currently based in Bangalore, originally from Bellary, Karnataka.
+
+✨ I believe in writing clean code, building meaningful projects, and growing into a strong full-stack developer.
 
 ---
 
