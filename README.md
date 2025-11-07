@@ -69,34 +69,6 @@ During my role at **Talentpace**, I worked on real-world hardware and IoT system
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
-
-# 📌 Featured Projects
-
-## ✅ **Resume Builder**
-**Description:** A MERN app to build, customize, preview, and download resumes.  
-**Features:** Templates, autosave, PDF download, authentication  
-**Deploy Link:** https://resume-builder-front-end.netlify.app/  
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind, JWT  
-**Tags:** `MERN` `Resume App` `PDF Generator` `Full Stack`
-
----
-
-## ✅ **Global Explorer Dashboard**
-**Description:** A responsive travel dashboard with country details, charts, filters, and visual UI.  
-**Deploy Link:** https://app.netlify.com/projects/globalexplorerdashboard/overview  
-**Tech Stack:** React, APIs, Charts.js, Tailwind  
-**Tags:** `React` `Dashboard` `API Project`
-
----
-
-## ✅ **Movie Search App**
-**Description:** Search movies with live results using OMDB API.  
-**Deploy Link:**https://movie-searching-api.netlify.app/  
-**Tech Stack:** React, JavaScript, OMDB API  
-**Tags:** `React` `Movie Search` `API`
-
----
-
 # 📬 Reach Me
 
 <p align="center">
