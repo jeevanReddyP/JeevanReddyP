@@ -97,20 +97,6 @@ During my role at **Talentpace**, I worked on real-world hardware and IoT system
 
 ---
 
-## ✅ **Weather Dashboard**
-**Description:** Live weather updates + 5-day forecast.  
-**Tech Stack:** HTML, CSS, JavaScript, OpenWeather API  
-**Tags:** `Weather App` `JavaScript` `API`
-
----
-
-## ✅ **MindTrack – Productivity App**
-**Description:** Task & habit tracker with clean UI and progress analytics.  
-**Tech Stack:** MERN stack  
-**Tags:** `MERN` `Productivity` `Tracker`
-
----
-
 # 📬 Reach Me
 
 <p align="center">
