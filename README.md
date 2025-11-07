@@ -91,8 +91,7 @@ During my role at **Talentpace**, I worked on real-world hardware and IoT system
 
 ## ✅ **Movie Search App**
 **Description:** Search movies with live results using OMDB API.  
-**Deploy Link:**https://movie-searching-api.netlify.app/
-**Features:** Debouncing, movie cards, favourites  
+**Deploy Link:**https://movie-searching-api.netlify.app/  
 **Tech Stack:** React, JavaScript, OMDB API  
 **Tags:** `React` `Movie Search` `API`
 
