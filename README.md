@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to My Profile — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" width="600" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="developer working" width="600"/>
 </p>
 
 
