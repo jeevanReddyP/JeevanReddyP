@@ -1,12 +1,12 @@
 <h1 align="center">👋 Welcome to My Profile — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" width="600" />
+  <img src="https://en.pimg.jp/095/223/631/1/95223631.jpg" alt="Coding Illustration" width="600" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Enthusiast;Problem+Solver;Tech+Explorer+%26+Learner" />
 </p>
-
 ---
 
 ## 🚀 **About Me**
