@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to My Profile — <span style="color:#00C7FF;">Jeevan Reddy P</span> 🚀</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="developer working" width="600"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding" width="600" />
 </p>
 
 
